@@ -39,8 +39,8 @@ Senior QA, EPAM (2016-2021)
 
 
 # My Projects
-- babanina_robotframework - a sample test suite for web application testing using Robot Framework
-- python_automation - a collection of sample scripts and automation projects in Python
+- [babanina_robotframework](https://github.com/Luna-sa/babanina_robotframework) - a sample test suite for web application testing using Robot Framework
+- [python_automation](https://github.com/Luna-sa/python_automation) - a collection of sample scripts and automation projects in Python
 
 # Contact Me
 Email: anastasiia.babanina@email.com
